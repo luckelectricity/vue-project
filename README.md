@@ -48,3 +48,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 │       └── index.js
 └── static
 ```
+1. 资源就近原则
+2. 模板统一 生命周期3个...
+3. service 层 接口统一规划
